@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "language": "en",
+    "name": "English",
+    "punctuation_standard": "Chicago Manual of Style (fiction convention)",
+    "note": "English AI-slop wordlist for fiction. Sources: academic studies on LLM text markers + editorial practice. Contribute a new language by copying this file."
+  },
+  "ai_only": [
+    "it was as if", "the air grew heavy", "time seemed to stand still",
+    "a testament to", "it goes without saying", "in that moment, he understood",
+    "the weight of", "a myriad of", "not merely", "but rather", "in a way that",
+    "profoundly", "utterly", "a palpable sense of", "a symphony of"
+  ],
+  "ai_words": [
+    "delve", "tapestry", "testament", "moreover", "furthermore", "consequently",
+    "underscore", "underscores", "showcase", "leverage", "utilize", "facilitate",
+    "seamlessly", "intricately", "vibrant", "vividly", "resonates", "resonance",
+    "multifaceted", "nuanced", "a sense of", "a sense of foreboding",
+    "heart raced", "heart pounded", "breath caught", "chills ran down",
+    "eyes widened", "brow furrowed", "let out a breath", "he didn't realize"
+  ],
+  "weak_adv": ["slightly", "gently", "quietly", "softly", "slowly", "suddenly",
+               "almost", "somewhat", "rather", "merely", "just", "barely"],
+  "inflate": ["a moment that would change everything", "nothing would ever be the same",
+              "in ways he could never have imagined", "a turning point",
+              "of epic proportions", "profoundly transformative"],
+  "cliche_conclusion": ["in conclusion", "ultimately", "in the end, it was clear",
+                        "it was a reminder that", "as they say", "only time would tell",
+                        "the journey had taught him"],
+  "paperish": ["it is important to note", "it is worth noting", "this suggests that",
+               "as previously mentioned", "it should be noted", "interestingly"],
+  "formal": ["furthermore", "nevertheless", "consequently", "accordingly", "thereby",
+             "herein", "notwithstanding", "moreover"],
+  "pacify": ["let bygones be bygones", "it's not worth it", "just let it go",
+             "turn the other cheek", "everyone makes mistakes", "forgive and forget"],
+  "whitewash": ["he was just misunderstood", "he had his reasons", "deep down, he was good",
+                "it wasn't really his fault", "he was a victim too", "secretly kind",
+                "a heart of gold beneath"],
+  "harmonize": ["everything worked out", "they all lived happily", "all was forgiven",
+                "and they were friends again", "the conflict melted away"],
+  "conflict_signals": ["fight", "battle", "struggle", "attack", "clash", "rage",
+                       "fury", "confront", "violence", "blood", "wound", "scream"],
+  "force_words": ["blood", "death", "kill", "wound", "pain", "scream", "curse",
+                  "hate", "smash", "crush", "tear", "stab", "strangle", "spit",
+                  "damn", "hell", "bastard", "fuck", "shit"],
+  "triple_pattern": "[A-Za-z]+,\\s+[A-Za-z]+,\\s+and\\s+[A-Za-z]+"
+}

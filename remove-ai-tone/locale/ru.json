@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "language": "ru",
+    "name": "Русский(Russian)",
+    "punctuation_standard": "Русская типографика",
+    "note": "【Шаблон】Список русских AI-штампов ещё не заполнен. Носители русского языка, пожалуйста, заполните этот файл. См. CONTRIBUTING-locales.md."
+  },
+  "ai_only": [],
+  "ai_words": [],
+  "weak_adv": [],
+  "inflate": [],
+  "cliche_conclusion": [],
+  "paperish": [],
+  "formal": [],
+  "pacify": [],
+  "whitewash": [],
+  "harmonize": [],
+  "conflict_signals": [],
+  "force_words": [],
+  "triple_pattern": ""
+}

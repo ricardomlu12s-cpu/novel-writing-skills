@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "language": "ja",
+    "name": "日本語(Japanese)",
+    "punctuation_standard": "日本語組版ルール",
+    "note": "【テンプレート】日本語のAI臭ワードリストはまだ未作成です。日本語ネイティブの方がこのファイルを埋めてください。埋め方は CONTRIBUTING-locales.md 参照。"
+  },
+  "ai_only": [],
+  "ai_words": [],
+  "weak_adv": [],
+  "inflate": [],
+  "cliche_conclusion": [],
+  "paperish": [],
+  "formal": [],
+  "pacify": [],
+  "whitewash": [],
+  "harmonize": [],
+  "conflict_signals": [],
+  "force_words": [],
+  "triple_pattern": ""
+}

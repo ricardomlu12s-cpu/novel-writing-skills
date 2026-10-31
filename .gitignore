@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# 运行时状态/索引(个人项目数据,绝不提交)
+state/
+.index/
+retrieval.db
+story_index.json
+query_cache.json
+skeletons.txt
+
+# 个人创作项目数据(绝不提交)
+.omc/
+manuscripts/
+drafts/
+summaries/
+canon-ledger/
+characters/
+source-canon/
+交接摘要.md
+
+# 本地配置/密钥
+.env
+*.local
+settings.json
+
+# 临时
+*.tmp
+*.bak
